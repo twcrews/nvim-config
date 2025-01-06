@@ -18,3 +18,5 @@ if vim.fn.has("wsl") == 1 then
                 \ }
   ]])
 end
+
+vim.g.autoformat = false
